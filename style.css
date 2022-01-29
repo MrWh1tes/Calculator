@@ -86,4 +86,12 @@ body{
             background: rgba(0, 0, 0, 0.4);
             font-size: 35px;
         }
+        
+        #c{
+            background: rgba(170, 33, 33, 0.3);
+        }
+
+        #equal{
+            background: rgba(120, 120, 120, 0.3);
+        }
     
